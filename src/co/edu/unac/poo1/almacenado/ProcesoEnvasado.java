@@ -1,0 +1,1 @@
+package co.edu.unac.poo1.almacenado;public interface ProcesoEnvasado {    boolean guardarEnLatas();}

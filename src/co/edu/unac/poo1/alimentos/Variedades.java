@@ -1,0 +1,1 @@
+package co.edu.unac.poo1.alimentos;public enum Variedades {    Arabiga,    Bourbon,    Estandar}
